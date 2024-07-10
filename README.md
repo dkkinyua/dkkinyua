@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **denzelkinyua11@gmail.com**
 
-- ⚡ Fun fact **If not building, I'm outside playing football or video games**
+- ⚡ **If not building, I'm outside playing football or video games especially smoking my boys on FIFA.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
