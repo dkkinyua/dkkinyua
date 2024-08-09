@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Denzel Kinyua</h1>
-<h3 align="center">A passionate backend developer from Nairobi, Kenya</h3>
+<h1 align="center"></h1>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dkkinyua&label=Profile%20views&color=0e75b6&style=flat" alt="dkkinyua" /> </p>
 
