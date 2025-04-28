@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/nyekssotrilll" target="blank"><img src="https://img.shields.io/twitter/follow/nyekssotrilll?logo=twitter&style=for-the-badge" alt="nyekssotrilll" /></a> </p>
 
-- 🔭 I’m currently working on **Django and Flask**
+- 🔭 I’m currently working on **Apache Airflow and task automation**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Data Enginering**
 
-- 👯 I’m looking to collaborate on **Django, Flask projects**
+- 👯 I’m looking to collaborate on **Data Engineering and AI projects**
 
-- 💬 Ask me about **Django, Flask, and data analysis**
+- 💬 Ask me about **Data Engineering, Analysis**
 
 - 📫 How to reach me **denzelkinyua11@gmail.com**
 
-- ⚡ **If not building, I'm outside playing football or video games especially smoking my boys on FIFA.**
+- ⚡ **If not building, I'm outside playing football or video games, especially smoking my boys on FIFA.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
