@@ -1,5 +1,12 @@
 # 💫 About Me:
-I'm currently working on a Reddit Data Pipeline using AWS<br>I'm looking to collaborate on data engineering projects and open source projects<br>I'm currently looking for help in cloud data engineering, in AWS and Azure<br>I'm currently working on how to build AI agents and automation<br>Ask me about data engineering and concepts<br>I love playing football during the weekend, playing video games, write blogs on dev.to and watching some anime in my free time
+- I'm a data engineer with 1 year of experience building scalable and sustainable data pipelines using **Python, SQL, Airflow, and cloud platforms (AWS/Azure)**.  
+- I have hands-on experience with **ETL/ELT pipelines, orchestration using Airflow, real-time streaming using self-managed and cloud Kafka, dbt transformations, and data warehousing using Snowflake**.  
+- I'm currently working on a **Reddit Sentiment Analysis Data Pipeline on AWS** and experimenting with **AI agents and automation**.  
+- I’ve built projects like a **Fraud Detection System**, a **Binance Real Time Streaming Pipeline**, and a **Kenyan House Data ELT Pipeline orchestrated with Airflow and dbt**.  
+- I’m looking to collaborate on **data engineering and open-source projects**.  
+- I’m also looking for mentorship and guidance in **cloud data engineering (AWS & Azure)**.  
+- Ask me about data engineering concepts, or check out my [blog](https://dev.to/dkkinyua) where I write about data engineering and share my learning journey.  
+- Outside of tech, I enjoy playing football on weekends, gaming, blogging, and watching anime in my free time.  
 
 
 ## 🌐 Socials:
